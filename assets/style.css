@@ -1,0 +1,67 @@
+h1 {
+    color: yellowgreen;
+    font-size: 35px;
+    font-style: normal;
+    font-family: inkspace2 script;
+    text-align: center;
+}
+
+.class {
+    color: rgb(182, 182, 182)
+font-style: normal;
+    font-family: inkspace2 script;
+}
+
+
+.score {
+    color: rgb(182, 182, 182);
+    font-style: normal;
+    font-family: inkspace2 script;
+    font-size: 20px;
+}
+
+.gold {
+     color: rgb(234, 218, 110);
+    font-style: normal;
+    font-family: inkspace2 script;
+    font-size: 30px;
+}
+
+#gameLink {
+    text-align: center;
+    border: 1px solid gray;
+    font-style: normal;
+    font-family: inkspace2 script;
+}
+
+#B {
+    text-align: center;
+}
+.T {
+    font-style: normal;
+    font-family: inkspace2 script;
+    font-size: 40px;
+}
+
+.I {
+    img-align: center;
+    }
+
+.center {
+    text-align: center;
+}
+#greeting {
+    display: none;
+    position: absolute;
+    left: 200%;
+    top: 20%;
+    background: #fff;
+    width: 350px;
+    height: 200px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    display: none;
+}
+
+}
